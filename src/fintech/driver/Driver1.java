@@ -14,7 +14,7 @@ public class Driver1 {
 
         double balance = 0.0;
 
-        System.out.println(accountName + " | " + owner + " | " + balance);
+        System.out.println(accountName + "|" + owner + "|" + balance);
 
         scanner.close();
 
